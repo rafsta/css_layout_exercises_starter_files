@@ -1,0 +1,44 @@
+main{
+	font-size:0;
+	margin-top:60px;
+	width:800px;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+}
+
+.inner{
+	display:inline-block;
+	border:solid black 1px;
+}
+
+.top{
+	height:200px;
+	width:50%;
+}
+
+.bot{
+	height:300px;
+	width:33.33%;
+}
+
+.inner-one{
+	background-color:green;
+}
+
+.inner-two{
+	background-color:blue;
+}
+
+.inner-three{
+	background-color:grey;
+}
+
+.inner-four{
+	background-color:black;
+	border:1px solid;
+}
+
+.inner-five{
+	background-color:orange;
+}
