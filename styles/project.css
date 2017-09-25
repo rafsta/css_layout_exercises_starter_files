@@ -1,0 +1,61 @@
+.main {
+    margin-left: 130px;
+    padding-top: 10px;
+}
+
+.Job {
+    color: #2e5d88;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu {
+    text-decoration: none;
+    float: right;
+    color: #5e5186;
+    padding-left: 10px;
+}
+
+img {
+    border: lightgrey solid 1px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.pages {
+    border: lightgrey solid 1px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.grey {
+    color: grey;
+}
+
+ul {
+    list-style: none;
+    margin-left: 90px;
+}
+
+.nav {
+    padding-left: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+
+html {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.search {
+    display: inline-block;
+}
+
+.box {
+    width: 700px;
+    height: 30px;
+}
