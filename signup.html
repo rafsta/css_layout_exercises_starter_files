@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles/signup.css">
+    <title>Sign up</title>
+</head>
+<body>
+
+<img src="images/logo.png" alt="">
+
+<div class="box">
+    <h1>Sign up</h1>
+    <form action="/signup/" method="post">
+        <p class="left">Email</p>
+        <input class="login" type="text" id="email" name="email" placeholder="foo@bar.com" required>
+        <p class="left">Password</p>
+        <input class="login" type="text" id="pass" name="pass" placeholder="1234passw0rd" required>
+        <h2><input type="submit" class="signup" value="Sign up"></h2>
+    </form>
+    <p><a class="grey" href="/forgot-password/new">Forgot password?</a></p>
+
+</div>
+
+<p class="white">Already have an account? <a class="white" href="/login">Log in</a></p>
+
+</body>
+</html>

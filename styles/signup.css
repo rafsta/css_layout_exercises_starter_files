@@ -1,0 +1,57 @@
+img{
+    height: 35px;
+    padding-bottom:35px;
+}
+
+body{
+    background-color: #577cab;
+    padding: 30px;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+}
+
+p{
+    padding: 15px;
+}
+
+.box{
+    padding-top:15px;
+    background-color: white;
+    width:400px;
+    margin:auto;
+}
+
+input{
+    border:solid 2px lightgrey;
+}
+
+.left{
+    text-align: left;
+}
+
+.white,.signup{
+    color:white;
+}
+
+.login,.white,.signup,.left{
+    font-weight:bold;
+}
+
+.signup{
+    background-color:limegreen;
+    height: 55px;
+    font-size:20px;
+}
+
+.grey{
+    color: grey;
+}
+
+.login,.signup{
+    width:320px;
+    padding:15px;
+}
+
+.signup:hover{
+    background-color: darkgreen;
+}
